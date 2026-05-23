@@ -1,4 +1,4 @@
-##  🧠GPT-Style Transformer from Scratch (PyTorch)
+#  🧠GPT-Style Transformer from Scratch (PyTorch)
 
 -  A simple implementation of a GPT-style Transformer language model using PyTorch.
   
