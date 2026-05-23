@@ -4,7 +4,7 @@
   
 ---
 
-#  This project builds a character-level language model with:
+##  This project builds a character-level language model with:
 
 -  Self-Attention
 -  Multi-Head Attention
